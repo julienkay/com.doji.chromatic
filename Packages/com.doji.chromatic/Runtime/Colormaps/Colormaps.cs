@@ -177,6 +177,6 @@ namespace Chromatic {
             tab20_r,
             tab20b_r,
             tab20c_r
-        }
+        };
     }
 }
