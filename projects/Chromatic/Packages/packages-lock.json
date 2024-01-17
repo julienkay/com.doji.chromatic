@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.doji.chromatic": {
-      "version": "file:com.doji.chromatic",
+      "version": "file:../../../com.doji.chromatic",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {}
     },
     "com.unity.ext.nunit": {

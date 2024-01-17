@@ -1,0 +1,11 @@
+{
+  "name": "com.doji.chromatic",
+  "version": "1.0.0",
+  "displayName": "Chromatic",
+  "description": "color utility",
+  "author": {
+    "name": "Doji Technologies",
+    "email": "support@doji-tech.com",
+    "url": "https://www.doji-tech.com/"
+  }
+}
