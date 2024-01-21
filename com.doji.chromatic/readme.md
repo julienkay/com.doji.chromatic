@@ -1,3 +1,3 @@
 # Chromatic
 
-A collection of color utilitiy functions for Unity.
+A collection of color utilities for Unity.

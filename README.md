@@ -1,14 +1,10 @@
-<br />
-<div align="center">
-  <a href="https://www.doji-tech.com/">
-    <img src="https://www.doji-tech.com/assets/favicon.ico" alt="Logo" width="80" height="80">
-  </a>
+<a href="https://www.doji-tech.com/">
+  <img src="https://www.doji-tech.com/assets/favicon.ico" alt="doji logo" title="Doji" align="right" height="70" />
+</a>
 
-  <h3 align="center">com.doji.chromatic</h3>
+# Chromatic
+ <a href="https://openupm.com/packages/com.doji.chromatic/">OpenUPM</a>
+ 
+A collection of color utilities for Unity.
 
-  <p align="center">
-	A collection of color utility functions for Unity.
-    <br />
-    <a href="https://openupm.com/packages/com.doji.chromatic/"><strong>OpenUPM</strong></a>
-  </p>
-</div>
+![chromatic_GH_wide](https://github.com/julienkay/com.doji.chromatic/assets/26555424/ce1de529-7122-4e48-b5ef-e93a98cb8fc4)
