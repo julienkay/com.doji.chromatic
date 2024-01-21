@@ -8,7 +8,7 @@
 
 using UnityEngine;
 
-namespace Chromatic {
+namespace Doji.Chromatic {
 
     public static partial class ColorMaps {
 
